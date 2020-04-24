@@ -1,0 +1,19 @@
+{
+  "name": "broad-cave-induce-9bovd",
+  "productName": "broad-cave-induce-9bovd",
+  "description": "My Electron application description",
+  "keywords": [],
+  "main": "./main.js",
+  "version": "1.0.0",
+  "author": "itgi",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "isomorphic-git": "*",
+    "jsoneditor": "*"
+  },
+  "devDependencies": {
+    "electron": "8.2.3"
+  }
+}
