@@ -17,6 +17,7 @@ Yet to come in order to complete this POC
 
 Beyond the POC, I'd like to have
 
+- Multiple file support
 - Revision history
 - Multiple branch support
 - Conflict resolution
